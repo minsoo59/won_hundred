@@ -55,7 +55,10 @@ function App() {
         <div className="summer__setTimeout">summer sale</div>
         <div className="products">
           <div className="product">
-            <img src="https://source.unsplash.com/random/640x1060"></img>
+            <img
+              src="https://source.unsplash.com/random/640x1060"
+              alt="asd"
+            ></img>
             <div className="product__detail">
               <div>Odette Overshirt - Tesk Melange</div>
               <div>
@@ -70,7 +73,10 @@ function App() {
             </div>
           </div>
           <div className="product">
-            <img src="https://source.unsplash.com/random/640x1061"></img>
+            <img
+              src="https://source.unsplash.com/random/640x1061"
+              alt="asd"
+            ></img>
             <div className="product__detail">
               <div>Esther Coat - Monnstruck</div>
               <div>
@@ -85,7 +91,10 @@ function App() {
             </div>
           </div>
           <div className="product">
-            <img src="https://source.unsplash.com/random/640x1062"></img>
+            <img
+              src="https://source.unsplash.com/random/640x1062"
+              alt="asd"
+            ></img>
             <div className="product__detail">
               <div>Kirby Zip Shirt - Black</div>
               <div>
