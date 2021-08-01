@@ -1,0 +1,13 @@
+// reset
+@import "./config/_reset";
+
+// config
+@import "./config/_variables";
+@import "./config/_element";
+
+// screens
+@import "./screens/App.scss";
+
+#root {
+  position: relative;
+}
